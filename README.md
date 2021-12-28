@@ -18,6 +18,7 @@ This project is a clone of the to-do webapp that has been rewritten with the use
 - Project build and management automation: Maven.
 - Database migrations: FlyWay.
 - Web server: TomCat.
+- Spring boot.
 
 ## Future features
 Remove To do's
