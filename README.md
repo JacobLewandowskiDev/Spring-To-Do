@@ -21,4 +21,4 @@ This project is a clone of the to-do webapp that has been rewritten with the use
 - Spring boot.
 
 ## Future features
-Remove To do's
+- Remove To do's
