@@ -1,4 +1,4 @@
-# Swing-To-Do
+# Spring-To-Do
 This project is a clone of the to-do webapp that has been rewritten with the use of spring boot. 
 
 ## How to run app
